@@ -1,7 +1,5 @@
 /*
 Author: Avery Wittmer
-Prof.: Kocharian
-Section: EGR 107, summer
 Desc.: This program returns the second word in a user entered string and tests the accuracy of its performance.
 */
 #include <stdio.h>
